@@ -29,6 +29,8 @@ En las subclases extendidas de Usuario en donde se pueden utilizar estas instanc
 * -Dependency Inversion Principle
 Al garantizar que la clase principal Usuario no depende de las subclases que se extienden de esta clase.
 
+[Principios SOLID](https://github.com/mpocampod/Asistencia/tree/main/principios%20SOLID)
+
 Algunos de los patrones que se pueden ver en este ejercicio son: 
 * ‘Strategy’ en el momento en que se clasifica el valor de la cita dependiendo del tipo de usuario que la solicitó 
 * ‘Abstract factory’ en donde se utilizó la clase abstracta Usuario y después se crearon tres subclases con el tipo de usuario
