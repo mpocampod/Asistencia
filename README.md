@@ -10,7 +10,7 @@ En estos proyectos encontrarás los ejercicios resueltos que fueron propuestos p
 
 ## Estructura
 
-Clases abstractas
+[Clases abstractas](https://github.com/mpocampod/Asistencia/tree/main/Clases%20abstractas)
 
 Acá podrás encontrar una implementación sencilla de una clase abstracta Figuras, en donde va a actuar como clase padre de las clases Cuadrado y Triángulo; lo que nos facilita la clase Figuras a pesar de que no se puede identificar como algo concreto es que posee características que son comunes en la clase Cuadrado y Triángulo que por ende pueden ser creadas a partir de la clase abstracta.
 
