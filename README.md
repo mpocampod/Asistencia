@@ -14,7 +14,7 @@ En estos proyectos encontrarás los ejercicios resueltos que fueron propuestos p
 
 Acá podrás encontrar una implementación sencilla de una clase abstracta Figuras, en donde va a actuar como clase padre de las clases Cuadrado y Triángulo; lo que nos facilita la clase Figuras a pesar de que no se puede identificar como algo concreto es que posee características que son comunes en la clase Cuadrado y Triángulo que por ende pueden ser creadas a partir de la clase abstracta.
 
-https://github.com/mpocampod/Asistencia/tree/main/hospital%20Makaia
+[ hospital Makaia ](https://github.com/mpocampod/Asistencia/tree/main/hospital%20Makaia)
 
 En este proyecto implementé las clases abstractas, principios SOLID y patrones de diseño en un ejercicio donde se busca automatizar el comportamiento de un usuario para agendar una cita médica dependiendo del tipo de usuario que era.  
 
