@@ -29,13 +29,12 @@ En las subclases extendidas de Usuario en donde se pueden utilizar estas instanc
 * -Dependency Inversion Principle
 Al garantizar que la clase principal Usuario no depende de las subclases que se extienden de esta clase.
 
-[Principios SOLID](https://github.com/mpocampod/Asistencia/tree/main/principios%20SOLID)
-
 Algunos de los patrones que se pueden ver en este ejercicio son: 
 * ‘Strategy’ en el momento en que se clasifica el valor de la cita dependiendo del tipo de usuario que la solicitó 
 * ‘Abstract factory’ en donde se utilizó la clase abstracta Usuario y después se crearon tres subclases con el tipo de usuario
 * ‘Factory’ para crear diferentes instancias en la clase Main de las especialidades y los usuarios y poder encapsular la creación de estos objetos.
 
 
+[Principios SOLID](https://github.com/mpocampod/Asistencia/tree/main/principios%20SOLID)
 
 En este último proyecto se pueden encontrar ejercicios con implementaciones sencillas de los principios SOLID con clases abstractas e interfaces en donde se busca eliminar el ‘Smell code’  es decir, muchos parámetros en un solo método, clases largas, códigos duplicados y código spaghetti. 
